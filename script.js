@@ -1,0 +1,1 @@
+document.write('<h3>Name: Adesomo Darlington</h3><h3>Height: 1.65m</h3><h3>Country: Nigeria</h3>')
